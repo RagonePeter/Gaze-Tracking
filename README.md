@@ -11,3 +11,9 @@ $ !wget -O face_landmarker_v2_with_blendshapes.task -q https://storage.googleapi
 $ cd project
 $ python iris_tracking.py
 ```
+
+
+Controls and Use Cases:
+* Hold Q to quit
+* Hold C to center gaze estimation (for calibrating gaze tracker)
+* Full screen camera window for gaze tracker to work properly
