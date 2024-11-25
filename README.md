@@ -1,3 +1,5 @@
+Python version 3.11.5
+
 ## Guide
 Full installation & run:
 
